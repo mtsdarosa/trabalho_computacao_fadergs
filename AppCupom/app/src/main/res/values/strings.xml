@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppCupom</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintEtCodigoCupom">Coupon Code</string>
+    <string name="hintDtDataValidade">Valid Thru</string>
+    <string name="hintnbValorDesconto">Discount Amount</string>
+    <string name="TextBtnSalvar">Save</string>
+    <string name="TextTvListaCodigoCupom">Coupon Code</string>
+    <string name="TextTvListaDataValidade">Valid Thru</string>
+    <string name="TextTvListaValorDesconto">Discount Amount</string>
+    <string name="txtAtencao">WARNING: This operation cannot be undone !</string>
+    <string name="txtConfirmaExclusao">Click YES to confirm the deletion of the Coupon</string>
+    <string name="txtBotaoCancelar">Cancel</string>
+    <string name="txtBotaoSim">Yes</string>
+</resources>

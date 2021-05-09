@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppCupom</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hintEtCodigoCupom">Código do Cupom</string>
+    <string name="hintDtDataValidade">Data de Validade</string>
+    <string name="hintnbValorDesconto">Valor de Desconto</string>
+    <string name="TextBtnSalvar">Salvar</string>
+    <string name="TextTvListaCodigoCupom">Código do Cupom</string>
+    <string name="TextTvListaDataValidade">Validade</string>
+    <string name="TextTvListaValorDesconto">Valor de Desconto</string>
+    <string name="txtAtencao">ATENÇÃO: Essa operação não pode ser desfeita !</string>
+    <string name="txtConfirmaExclusao">Confirma a exclusão do cupom </string>
+    <string name="txtBotaoCancelar">Cancelar</string>
+    <string name="txtBotaoSim">Sim</string>
+</resources>
